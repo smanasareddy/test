@@ -1,14 +1,8 @@
-<<<<<<< HEAD
 reddy
 Bangalore
 nellore
-<<<<<<< HEAD
 Kothakalva -2
 Narayana -3
 Ashok -4
-=======
 reddy
->>>>>>> parent of cc63dc9... added nellore
-=======
-Kothakalva -2
->>>>>>> parent of 001bf99... added Narayana -3
+
